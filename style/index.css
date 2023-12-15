@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 .menu_bar{
     background-color: black;
@@ -135,6 +136,7 @@
 }
 .flex_statement p{
     margin-top: 3%;
+    line-height: 30px;
 }
 .bottom{
     background-image: url(../image/img-6.png);
